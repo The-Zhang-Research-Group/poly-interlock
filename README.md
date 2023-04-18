@@ -1,6 +1,7 @@
 # poly-interlock
 
 Novel Patterns for Polymerization of Interlocked Molecular Cages
+
 Zhenghong Chen1†, Weihao Wang1†, Shaodong Zhang*1
 
 1 School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, Shanghai 200240, China
