@@ -10,7 +10,7 @@ Zhenghong Chen1†, Weihao Wang1†, Shaodong Zhang*1
 
 Please refer to:
 
-DOI:10.26434/chemrxiv-2023-brx8k D O I: 10.26434/chemrxiv-2023-brx8k 
+DOI:10.26434/chemrxiv-2023-brx8k 
 
 https://chemrxiv.org/engage/chemrxiv/article-details/643e581a1d262d40eaaf9d22
 
